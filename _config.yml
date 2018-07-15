@@ -9,7 +9,10 @@ avatarDesc: 学习/ 闲聊
 url: "http://www.xiexiaoxin.com"
 
 # Comment
-#comment:
+comment:
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+    livere_uid: MTAyMC8zODA1OS8xNDU4OQ==
  #   disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
