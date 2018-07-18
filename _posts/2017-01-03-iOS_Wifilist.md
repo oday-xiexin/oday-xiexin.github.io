@@ -143,7 +143,7 @@ NEHotspotNetwork 里有如下信息：
 
 ### Q&A
 
-在操作过程或者文章有问题的话欢迎在 [原文](http://baixin.io/2017/01/iOS_Wifilist/) 里提问或指正。
+在操作过程或者文章有问题的话欢迎在 原文 里提问或指正。
 
 >* 使用 Demo 我就不提供了，你如果没有申请 NetworkExtension 权限，提供了 Demo 你也无法使用。
 
